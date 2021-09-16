@@ -37,3 +37,7 @@ I learned more about functions and parameters. Using what I learned I built a ca
 # Day 9
 
 I learned about dictionaries and how to nest different structures in them. I applied this to a auction project.
+
+# Day 10
+
+I learned more about function, dictionaries, flags, and recursion. I applied this to a calculator project.
