@@ -1,3 +1,6 @@
+# Rock Paper Scissor game
+# Project 4
+
 import random
 rock = '''
     _______

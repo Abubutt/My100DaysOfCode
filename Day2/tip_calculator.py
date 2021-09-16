@@ -1,4 +1,5 @@
 # Tip Calculator
+# Project 2
 
 bill = float(input("Enter total bill amount: "))
 tip = int(input("Enter tip amount (percentage): "))
