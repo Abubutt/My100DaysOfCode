@@ -41,3 +41,7 @@ I learned about dictionaries and how to nest different structures in them. I app
 # Day 10
 
 I learned more about function, dictionaries, flags, and recursion. I applied this to a calculator project.
+
+# Day 11
+
+Used everythin I learned from the past 10 days to build a Blackjack capstone project.
