@@ -44,4 +44,4 @@ I learned more about function, dictionaries, flags, and recursion. I applied thi
 
 # Day 11
 
-Used everythin I learned from the past 10 days to build a Blackjack capstone project.
+Used everything I learned from the past 10 days to build a Blackjack capstone project.
