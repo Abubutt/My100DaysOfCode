@@ -49,3 +49,7 @@ Used everything I learned from the past 10 days to build a Blackjack capstone pr
 # Day 12
 
 I learned about global/local scopes in python and constant variables. I applied this to a number guessing game.
+
+# Day 13
+
+I learned about debugging tips and tricks. I applied this to previous coding exercises that had bugs in them.
