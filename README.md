@@ -45,10 +45,7 @@ I learned more about function, dictionaries, flags, and recursion. I applied thi
 # Day 11
 
 Used everything I learned from the past 10 days to build a Blackjack capstone project.
-<<<<<<< HEAD
 
 # Day 12
 
-I learned about global/local scopes in python and constant variables. I applied this to a number guessing games.
-=======
->>>>>>> 5b638f5cffee60e7afab5c7f48217b9dd152bc35
+I learned about global/local scopes in python and constant variables. I applied this to a number guessing game.
