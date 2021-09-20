@@ -15,7 +15,7 @@ def compare(choice, curr, compare_against, points, game_is_over):
     else:
         os.system("clear")
         game_is_over = True
-    return points, game_is_over
+    return points, game_is_over, curr
 
 
 def play_game():
@@ -27,6 +27,8 @@ def play_game():
         os.system("clear")
         print(logo)
         compare_against = random.choice(data)
+        while compare_against == curr:
+            compare_against = random.choice(data)
         if points > 0:
             print(f"You're right! Current score: {points}.")
         print("Compare A: " + curr["name"] + ", a " +
@@ -39,7 +41,7 @@ def play_game():
         else:
             choice = compare_against
 
-        points, game_is_over = compare(
+        points, game_is_over, curr = compare(
             choice, curr, compare_against, points, game_is_over)
     return points
 
