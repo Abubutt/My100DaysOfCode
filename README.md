@@ -53,3 +53,7 @@ I learned about global/local scopes in python and constant variables. I applied 
 # Day 13
 
 I learned about debugging tips and tricks. I applied this to previous coding exercises that had bugs in them.
+
+# Day 14
+
+Using everythin I learned so far, I applied it to a Higher/Lower game.
