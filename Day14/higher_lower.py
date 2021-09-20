@@ -44,4 +44,5 @@ def play_game():
     return points
 
 
-print(f"{logo} \n Sorry that's wrong, Final Score: {play_game()}")
+points = play_game()
+print(f"{logo} \n Sorry that's wrong, Final Score: {points} \n")
