@@ -56,4 +56,8 @@ I learned about debugging tips and tricks. I applied this to previous coding exe
 
 # Day 14
 
-Using everythin I learned so far, I applied it to a Higher/Lower game.
+Using everything I learned so far, I applied it to a Higher/Lower game.
+
+# Day 15
+
+Built a virtual terminal based coffee machine based on the things learned in the previous days.
