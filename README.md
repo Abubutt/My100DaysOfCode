@@ -61,3 +61,7 @@ Using everything I learned so far, I applied it to a Higher/Lower game.
 # Day 15
 
 Built a virtual terminal based coffee machine based on the things learned in the previous days.
+
+# Day 16
+
+I learned about object oriented programming and applied it to my coffee machine project from day 15.
