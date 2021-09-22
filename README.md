@@ -65,3 +65,7 @@ Built a virtual terminal based coffee machine based on the things learned in the
 # Day 16
 
 I learned about object oriented programming and applied it to my coffee machine project from day 15.
+
+# Day 17
+
+Learned more about object oriented programming and applied it to a quiz game.
