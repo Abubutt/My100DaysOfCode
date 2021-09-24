@@ -69,3 +69,7 @@ I learned about object oriented programming and applied it to my coffee machine 
 # Day 17
 
 Learned more about object oriented programming and applied it to a quiz game.
+
+# Day 18
+
+Learned about the turtle module and applied it to different artistic desgins/shapes.
