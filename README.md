@@ -77,3 +77,7 @@ Learned about the turtle module and applied it to different artistic desgins/sha
 # Day 19
 
 Learned more about the turtle module and the coordinate system and applied it to a turtle racing game.
+
+# Day 20
+
+Learned more about the turtle module and started to implement the classic snake game.
