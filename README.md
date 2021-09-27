@@ -81,3 +81,7 @@ Learned more about the turtle module and the coordinate system and applied it to
 # Day 20
 
 Learned more about the turtle module and started to implement the classic snake game.
+
+# Day 21
+
+Learned about inheritance using classes and used it to complete the snake game.
