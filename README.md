@@ -85,3 +85,7 @@ Learned more about the turtle module and started to implement the classic snake 
 # Day 21
 
 Learned about inheritance using classes and used it to complete the snake game.
+
+# Day 22
+
+Used what I learned before to create a ping pong game.
