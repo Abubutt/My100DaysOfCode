@@ -89,3 +89,7 @@ Learned about inheritance using classes and used it to complete the snake game.
 # Day 22
 
 Used what I learned before to create a ping pong game.
+
+# Day 23
+
+Used what I learned about OOP and the turtle module to create a turtle crossing game.
