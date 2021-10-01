@@ -93,3 +93,7 @@ Used what I learned before to create a ping pong game.
 # Day 23
 
 Used what I learned about OOP and the turtle module to create a turtle crossing game.
+
+# Day 24
+
+Learned about file handling and file paths. Applied this to a mail merging program.
