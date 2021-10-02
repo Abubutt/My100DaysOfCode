@@ -97,3 +97,7 @@ Used what I learned about OOP and the turtle module to create a turtle crossing 
 # Day 24
 
 Learned about file handling and file paths. Applied this to a mail merging program.
+
+# Day 25
+
+Learned about the pandas library and csv files. Applied it to a 50 states trivia game.
