@@ -101,3 +101,7 @@ Learned about file handling and file paths. Applied this to a mail merging progr
 # Day 25
 
 Learned about the pandas library and csv files. Applied it to a 50 states trivia game.
+
+# Day 26
+
+Learned about list and dictionary comprehension and applied it to a phonetic code word converter.
